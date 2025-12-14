@@ -1,0 +1,51 @@
+City,State / Union Territory,census data check
+Ahmedabad,Gujarat,FALSE
+Bengaluru,Karnataka,TRUE
+Bhiwadi,Rajasthan,TRUE
+Bhopal,Madhya Pradesh,TRUE
+Bhubaneswar,Odisha,TRUE
+Bidhan Nagar (Excluding Rajarhat),West Bengal,TRUE
+Chakan,Maharashtra,FALSE
+Chandigarh (Tricity),Chandigarh,TRUE
+Chennai,Tamil Nadu,TRUE
+Coimbatore,Tamil Nadu,TRUE
+Dehradun,Uttarakhand,TRUE
+Delhi,Delhi ,TRUE
+Faridabad,Haryana,TRUE
+Gandhinagar,Gujarat,TRUE
+Ghaziabad,Uttar Pradesh,TRUE
+Greater Noida,Uttar Pradesh,TRUE
+Gurugaon,Haryana,TRUE
+Guwahati,Assam,TRUE
+Howrah,West Bengal,FALSE
+Hyderabad,Telangana,TRUE
+Indore,Madhya Pradesh,TRUE
+Jaipur,Rajasthan,TRUE
+Kalyan Dombivali,Maharashtra,TRUE
+Kanpur,Uttar Pradesh,TRUE
+Kochi,Kerala,TRUE
+Kolkata,West Bengal,TRUE
+Lucknow,Uttar Pradesh,TRUE
+Ludhiana,Punjab,TRUE
+Meerut,Uttar Pradesh,TRUE
+Mira Bhayander,Maharashtra,TRUE
+Mumbai,Maharashtra,TRUE
+Nagpur,Maharashtra,TRUE
+Nashik,Maharashtra,TRUE
+Navi Mumbai,Maharashtra,TRUE
+New Town Kolkata,West Bengal,FALSE
+Noida,Uttar Pradesh,TRUE
+Panvel,Maharashtra,TRUE
+Patna,Bihar,TRUE
+Pimpri Chinchwad,Maharashtra,TRUE
+Pune,Maharashtra,TRUE
+Raipur,Chhattisgarh,TRUE
+Rajkot,Gujarat,TRUE
+Ranchi,Jharkhand,TRUE
+Surat,Gujarat,TRUE
+Thane,Maharashtra,TRUE
+Thiruvananthapuram,Kerala,TRUE
+Vadodara,Gujarat,TRUE
+Vasai Virar,Maharashtra,TRUE
+Vijayawada,Andhra Pradesh,TRUE
+Vizag,Andhra Pradesh,FALSE

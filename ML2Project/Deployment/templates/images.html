@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Model Visualizations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f7f6;
+            margin: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #1f77b4;
+        }
+        img {
+            width: 100%;
+            max-width: 900px;
+            display: block;
+            margin: 30px auto;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+        }
+        .back-btn {
+            display: block;
+            text-align: center;
+            margin-top: 30px;
+        }
+        button {
+            padding: 12px 25px;
+            background-color: #2ca02c;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Model & Data Visualizations</h1>
+        <img src="{{ url_for('static', filename='images/pca_cluster_visualization.png') }}" alt="PCA Cluster Visualization">
+        <img src="{{ url_for('static', filename='images/pca_kmeans_clustering.png') }}" alt="PCA KMeans Clustering">
+        <img src="{{ url_for('static', filename='images/pca_dbscan_clustering.png') }}" alt="PCA DBSCAN Clustering">
+        <img src="{{ url_for('static', filename='images/pca_ahc_clustering.png') }}" alt="PCA AHC Clustering">
+        <img src="{{ url_for('static', filename='images/pca_visualization_with_centroids.png') }}" alt="PCA with Centroids">
+        <img src="{{ url_for('static', filename='images/box_plot_pi_ratio_by_tier.png') }}" alt="Box Plot PI Ratio by Tier">
+        <img src="{{ url_for('static', filename='images/elbow_method_plot.png') }}" alt="Elbow Method Plot">
+
+
+        <div class="back-btn">
+            <a href="/">
+                <button>Back to Classifier</button>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

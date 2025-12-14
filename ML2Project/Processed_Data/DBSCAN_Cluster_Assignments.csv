@@ -1,0 +1,51 @@
+City,State_Standard,DBSCAN_Cluster
+Ahmedabad,GUJARAT,0
+Bengaluru,KARNATAKA,-1
+Bhiwadi,RAJASTHAN,-1
+Bhopal,MADHYA PRADESH,-1
+Bhubaneswar,ODISHA,-1
+Bidhan Nagar (Excluding Rajarhat),WEST BENGAL,1
+Chakan,MAHARASHTRA,2
+Chandigarh (Tricity),CHANDIGARH,-1
+Chennai,TAMIL NADU,-1
+Coimbatore,TAMIL NADU,-1
+Dehradun,UTTARAKHAND,-1
+Delhi,DELHI,-1
+Faridabad,HARYANA,-1
+Gandhinagar,GUJARAT,0
+Ghaziabad,UTTAR PRADESH,3
+Greater Noida,UTTAR PRADESH,-1
+Gurugaon,HARYANA,-1
+Guwahati,ASSAM,1
+Howrah,WEST BENGAL,1
+Hyderabad,TELANGANA,-1
+Indore,MADHYA PRADESH,-1
+Jaipur,RAJASTHAN,-1
+Kalyan Dombivali,MAHARASHTRA,2
+Kanpur,UTTAR PRADESH,3
+Kochi,KERALA,-1
+Kolkata,WEST BENGAL,1
+Lucknow,UTTAR PRADESH,3
+Ludhiana,PUNJAB,-1
+Meerut,UTTAR PRADESH,3
+Mira Bhayander,MAHARASHTRA,2
+Mumbai,MAHARASHTRA,2
+Nagpur,MAHARASHTRA,2
+Nashik,MAHARASHTRA,2
+Navi Mumbai,MAHARASHTRA,2
+New Town Kolkata,WEST BENGAL,1
+Noida,UTTAR PRADESH,-1
+Panvel,MAHARASHTRA,-1
+Patna,BIHAR,3
+Pimpri Chinchwad,MAHARASHTRA,2
+Pune,MAHARASHTRA,2
+Raipur,CHHATTISGARH,-1
+Rajkot,GUJARAT,0
+Ranchi,JHARKHAND,-1
+Surat,GUJARAT,0
+Thane,MAHARASHTRA,2
+Thiruvananthapuram,KERALA,-1
+Vadodara,GUJARAT,0
+Vasai Virar,MAHARASHTRA,2
+Vijayawada,ANDHRA PRADESH,-1
+Vizag,ANDHRA PRADESH,-1
